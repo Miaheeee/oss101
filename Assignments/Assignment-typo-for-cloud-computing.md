@@ -28,7 +28,7 @@ What we are, unapologetically, is hostile to people who seem to be unwilling to 
 
 We realize that there are many people who just want to use the software we write, and who have no interest in learning technical details. For most people, a computer is merely a tool, a means to an end; they have more important things to do and lives to lxve. We acknowledge that, and don't expect everyone to take an interest in the technical matters that fascinate us. Nevertheless, our style of answering questions is tuned for people who *do* take such an interest and are willing to be active participants in problem-solving. That's not going to change. Nor should it; if it did, we would become less effective at the things we do best.
 
-We're (largely) volunteers. We take time out of busy lives to answer questions, and at times we're overwhelmed with them. So we filter ruthlexsly. In particular, we throw away questions from people who appear to be losers in order to spend our question-answering time more efficiently, on winners.
+We're (largely) volunteers. We take time out of busy lives to answer questions, and at times we're overwhelmed with them. So we filter ruthlessly. In particular, we throw away questions from people who appear to be losers in order to spend our question-answering time more efficiently, on winners.
 
 If you find this attitude obnoxious, condescending, or arrogant, check your assumptions. We're not asking you to genuflect to us --- in fact, most of us would love nothing more than to deal with you as an equal and welcome you into our culture, if you put in the effort required to make that possible. But it's simply not efficient for us to try to help people who are not willing to help themselves. It's OK to be ignorant; it's not OK to play stupid.
 
@@ -254,7 +254,7 @@ Simon Tatham has written an excellent essay entitled [How to Report Bugs Effect
 
 You need to be precise and informative. This end is not served by simply dumping huge volumes of code or data into a help request. If you have a large, complicated test case that is breaking a program, try to trim it and make it as small as possible.
 
-This is useful for at least three reasons. One: bei ng seen to invest effort in simplifying the question makes it more likely you'll get an answer, Two: simplifying the question makes it more likely you'll get a *useful* answer. Three: In the process of refining your bug report, you may develop a fix or workaround yourself.
+This is useful for at least three reasons. One: being seen to invest effort in simplifying the question makes it more likely you'll get an answer, Two: simplifying the question makes it more likely you'll get a *useful* answer. Three: In the process of refining your bug report, you may develop a fix or workaround yourself.
 
 ### Don't rush to claim that you have found a bug
 
@@ -534,7 +534,7 @@ In general, simply re-posting your question is a bad idea. This will be seen as 
 
 There are other sources of help you can go to, often sources better adapted to a novice's needs.
 
-There are many online and local user groups who are enthusiasts about the software, even though they may never havewritten any software themselves. These groups often form so that people can help each other and help new users.
+There are many online and local user groups who are enthusiasts about the software, even though they may never have written any software themselves. These groups often form so that people can help each other and help new users.
 
 There are also plenty of commercial companies you can contract with for help, both large and small. Don't be dismayed at the idea of having to pay for a bit of help! After all, if your car engine blows a head gasket, chances are you would take it to a repair shop and pay to get it fixed. Even if the software didn't cost you anything, you can't expect that support to always come for free.
 
